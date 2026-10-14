@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project asks two questions about Bitcoin-related tweets (Kaggle "Bitcoin Tweets Dataset 2025-2026"):
+This project answers two questions about Bitcoin-related tweets (Kaggle "Bitcoin Tweets Dataset 2025-2026"):
 
 1. **What themes** are being discussed, and how does their prevalence change over time?
 2. **Does daily estimated sentiment** improve next-day Bitcoin volatility forecasts once market information and tweet volume are controlled for?
